@@ -116,18 +116,18 @@ export async function getAllEvents({
     await connectToDatabase();
 
     // Conditions
-    const titleCondition = query
-      ? { title: { $regex: query, $options: "i" } }
-      : {};
-    const categoryCondition = category
-      ? await getCategoryByName(category)
-      : null;      
-    const conditions = {
-      $and: [
-        titleCondition,
-        categoryCondition ? { category: categoryCondition._id } : {},
-      ],
-    };
+    const conditions: any = {};
+
+    if (query) {
+      conditions.title = { $regex: query, $options: "i" };
+    }
+
+    if (category) {
+      const categoryDoc = await getCategoryByName(category);
+      if (categoryDoc) {
+        conditions.category = categoryDoc._id;
+      }
+    }
 
     // Pagination
     const skipAmount = (Number(page) - 1) * limit;   
